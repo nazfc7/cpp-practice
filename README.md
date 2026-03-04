@@ -1,32 +1,32 @@
-# C++ Egzersiz Serisi
+# C++ Exercise Series
 
-Bu repo, C++ programlama dilini temelden ileri seviyeye kadar pekiştirmek amacıyla hazırlanmış pratik sorularından oluşmaktadır.
+This repository consists of practical questions designed to reinforce C++ programming language skills from basic to advanced levels.
 
-Amaç:
-- Temel giriş/çıkış işlemlerini pekiştirmek
-- Karar yapıları (if-else, switch) kullanımı
-- Döngüler (for, while, do-while)
-- Diziler ve 2D diziler
-- Fonksiyonlar ve parametre kullanımı
-- String işlemleri
-- Matris işlemleri
-- Arama ve sıralama algoritmaları
-- Mini algoritma problemleri
+Purpose:
+- Reinforcing basic input/output operations
+- Using decision structures (if-else, switch)
+- Loops (for, while, do-while)
+- Arrays and 2D arrays
+- Functions and parameter usage
+- String operations
+- Matrix operations
+- Search and sorting algorithms
+- Mini algorithm problems
 
 ---
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - C++
-- Standart kütüphaneler (iostream, string, cmath vb.)
-- Temel algoritma mantığı
+- Standard libraries (iostream, string, cmath, etc.)
+- Basic algorithm logic
 
 ---
 
-## Amaç
+## Purpose
 
-Bu repo, algoritma düşünme becerisini geliştirmek ve C++ temellerini sağlamlaştırmak için oluşturulmuştur.  
-Her soru ayrı bir dosya halinde yazılmıştır.
+This repository was created to develop algorithmic thinking skills and reinforce C++ fundamentals. 
+Each question is written in a separate file.
 
 ---
 
-Hazırlayan: Naz İçen
+Prepared by: Naz İçen
